@@ -1,1 +1,20 @@
-theme: jekyll-theme-tactile
+{
+	"locations": [{
+		"lat": 40.74959782183326,
+		"lon": -73.99949938058853
+	}, {
+		"lat": 40.73711228816394,
+		"lon": -74.05202776193619
+	}],
+	"costing": "truck",
+	"costing_options": {
+		"truck": {
+			"height": "4.11",
+			"width": "2.6",
+			"length": "21.64",
+			"weight": "21.77",
+			"axle_load": "9.07",
+			"hazmat": false
+		}
+	}
+}
